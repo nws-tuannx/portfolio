@@ -9,6 +9,7 @@
     <p>
       Start
     </p>
+    <p>Test deploy</p>
   </div>
 </template>
 
